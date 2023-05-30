@@ -17,7 +17,7 @@ dependencies:
     git:
       url: https://github.com/asbn223/chart_flutter
       path: charts_common
-  collection:
+  collection: ^1.17.1
   flutter:
     sdk: flutter
   intl: 

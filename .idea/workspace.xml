@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf865f0b-9c28-4ffa-8408-e958e71eb4ae" name="Changes" comment="" />
+    <list default="true" id="cf865f0b-9c28-4ffa-8408-e958e71eb4ae" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/charts/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/charts/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts_common/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/charts_common/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts_flutter/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/charts_flutter/pubspec.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,12 +26,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="feat/clear-project" />
-                    <option name="lastUsedInstant" value="1685431903" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1685431902" />
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1685432213" />
                   </RecentBranch>
                 </list>
               </option>
